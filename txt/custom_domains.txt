@@ -11,9 +11,10 @@ koreader.rocks
 fantlab.org
 
 # kvn
+expresshost.org
 onexray.com
-v2raytun.com
 vpnjantit.com
+v2raytun.com
 zerolab.net
 
 # PC
@@ -28,4 +29,4 @@ gl-inet.com
 d38w2gmtdarf5j.cloudfront.net
 
 # other
-example.test
+boosty.to
