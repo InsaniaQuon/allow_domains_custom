@@ -24,6 +24,8 @@ zerolab.net
 
 # other
 boosty.to
+capcut.com
+capcutapi.com
 
 # PC
 arctic.de

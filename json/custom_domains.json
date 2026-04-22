@@ -1,33 +1,35 @@
 {
-    "version":  3,
-    "rules":  [
-                  {
-                      "domain_suffix":  [
-                                            "cursor.directory",
-                                            "mcpmarket.com",
-                                            "animelib.org",
-                                            "crunchyroll.com",
-                                            "crunchyrollcdn.com",
-                                            "nyaa.si",
-                                            "shikimori.io",
-                                            "shikimori.rip",
-                                            "fantlab.org",
-                                            "koreader.rocks",
-                                            "expresshost.org",
-                                            "onexray.com",
-                                            "v2fly.org",
-                                            "v2raytun.com",
-                                            "vpnjantit.com",
-                                            "zerolab.net",
-                                            "boosty.to",
-                                            "arctic.de",
-                                            "bequiet.com",
-                                            "gskill.com",
-                                            "noctua.at",
-                                            "d38w2gmtdarf5j.cloudfront.net",
-                                            "gl-inet.com",
-                                            "gl-inet.com.s3.amazonaws.com"
-                                        ]
-                  }
-              ]
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "cursor.directory",
+        "mcpmarket.com",
+        "animelib.org",
+        "crunchyroll.com",
+        "crunchyrollcdn.com",
+        "nyaa.si",
+        "shikimori.io",
+        "shikimori.rip",
+        "fantlab.org",
+        "koreader.rocks",
+        "expresshost.org",
+        "onexray.com",
+        "v2fly.org",
+        "v2raytun.com",
+        "vpnjantit.com",
+        "zerolab.net",
+        "boosty.to",
+        "capcut.com",
+        "capcutapi.com",
+        "arctic.de",
+        "bequiet.com",
+        "gskill.com",
+        "noctua.at",
+        "d38w2gmtdarf5j.cloudfront.net",
+        "gl-inet.com",
+        "gl-inet.com.s3.amazonaws.com"
+      ]
+    }
+  ]
 }
