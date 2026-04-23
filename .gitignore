@@ -1,3 +1,4 @@
-build-lists.md
-build-lists.ps1
+scripts/
 sing-box/
+temp/
+config.env
