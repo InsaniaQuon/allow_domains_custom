@@ -1,6 +1,7 @@
 # AI
 cursor.directory
 mcpmarket.com
+testsprite.com
 
 # anime
 animelib.org
@@ -30,6 +31,7 @@ capcutapi.com
 # PC
 arctic.de
 bequiet.com
+geekbench.com
 gskill.com
 noctua.at
 

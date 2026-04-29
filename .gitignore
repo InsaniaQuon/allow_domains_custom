@@ -1,4 +1,6 @@
 scripts/
 sing-box/
 temp/
+config.env.example
 config.env
+format_converter.py
